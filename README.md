@@ -12,7 +12,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :telescope: I'm looking for a job as a front-end developer. At the moment I am actively learning and creating web applications for the portfolio.
 
-- :zap: In my spare time I solve CodeWwars problems and read articles.
+- :zap: In my spare time I solve CodeWars problems and read articles.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">

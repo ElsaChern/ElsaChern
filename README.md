@@ -10,7 +10,7 @@
 ### :woman_technologist: About Me :
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I'm looking for a job as a front-end programmer. At the moment I am actively learning and creating web applications for the portfolio.
+- :telescope: I'm looking for a job as a front-end developer. At the moment I am actively learning and creating web applications for the portfolio.
 
 - :zap: In my spare time I solve CodeWwars problems and read articles.
 
